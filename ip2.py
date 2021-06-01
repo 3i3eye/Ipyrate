@@ -2,7 +2,7 @@ print('\033[1;36;40mGive some seconds to collect the info.....')
 print()
 print('\033[1;36;40mDISCLAIMER: WE ARE NOT RESPONSIBLE FOR ANY OF YOUR MISUSE OF THIS CONTENT...')
 print()
-print('\033[1;36;40m THE INFO GIVEN HERE IS NOT ACCURATE AND ONLY YOUR ISP CAN TRACK YOUR LIVE LOCATION AND ALSO  SOME OF YOUR APPS CAN..OOH.. ')
+print('\033[1;36;40m THE INFO GIVEN HERE IS NOT ACCURATE AND ONLY YOUR ISP CAN TRACK YOUR LIVE LOCATION AND ALSO  SOME OF YOUR APPS CAN..OOH..copyrighted to ipinfo.io api ')
 import sys
 from colorama import init
 init(strip=not sys.stdout.isatty())
