@@ -5,13 +5,26 @@
 BASIC IP INFORMATION GATHERINGS IN CUSTOMISED FORM....USER FRIENDLY
 installation 
 
-it has some coloured environment:
+>INSTALLATION ON #LINUX BASED SYSTEMS
 
-apt update && upgrade
-git clone https://github.com/3i3eye/Ipyrate.git
-cd Ipyrate && ls
-pip install -r requirements.txt
-python ip2.py
+>apt update && upgrade
+
+#Cloning into the git
+
+>git clone https://github.com/3i3eye/Ipyrate.git
+
+#Changing the directory
+
+>cd Ipyrate && ls
+
+#Installing required pips
+
+>pip install -r requirements.txt
+
+#Use chmod +x ip2.py (perference)
+
+>python ip2.py
+
 
 
 
